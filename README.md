@@ -2,7 +2,7 @@
 
 
 🔍 Project Overview:
-You will:
+
 
 🔗 Fetch data from real YouTube videos using the YouTube Data API
 
